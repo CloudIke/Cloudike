@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **oansah.isaac@gmail.com**
 
-- ⚡ Fun fact **Cloud engineer by day, plantain farmer by night. Need help with either? I'm your guy**
+- ⚡ Fun fact **Cloud engineer by day, plantain farmer on the weekends. Need help with either? I'm your guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
