@@ -2,7 +2,7 @@
 
 > One application. Six layers of the DevOps stack. End to end.
 
-| # | Project | Stack | What It Demonstrates |
+| # | Project | Stack | Delivers |
 |---|---------|-------|----------------------|
 | 01 | [Modern Cloud Architecture](https://github.com/CloudIke/Modern-Cloud-Architecture) | AWS · VPC · EC2 · IAM · RDS | Architecting the secure 3-tier AWS infrastructure the app lives on |
 | 02 | [Book Review App Terraform](https://github.com/CloudIke/Book-Review-App-Terraform) | Terraform · AWS | Provisioning the entire AWS infrastructure as reusable code |
