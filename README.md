@@ -1,52 +1,51 @@
-<h1 align="center">Hi 👋, I'm Isaac Owusu-Ansah</h1>
-<h3 align="center">A Passionate Cloud Engineer focused on Crafting Tomorrow's Solutions and learning by failing forward.</h3>
+<h1 align="center">Isaac Owusu-Ansah (CloudIke)</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudike&label=Profile%20views&color=0e75b6&style=flat" alt="cloudike" /> </p>
+<h3 align="center">DevOps & Cloud Engineer | AWS · Azure · Terraform · Ansible · Docker</h3>
 
-- 🔭 I’m currently working on **Cloud Projects**
-
-- 🌱 I’m currently learning **Cloud Engineering and Python**
-
-- 👯 I’m looking to collaborate on **Cloud Native Projects**
-
-- 🤝 I’m looking for help with **Cloud Engineering**
-
-- 💬 Ask me about **Cloud Engineering**
-
-- 📫 How to reach me **oansah.isaac@gmail.com**
-
-- ⚡ Fun fact **Cloud engineer by day, plantain farmer on the weekends. Need help with either? I'm your guy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/isaac osei owusu-ansah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaac osei owusu-ansah" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<p align="center">
+  <a href="mailto:oansah.isaac@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/isaac-osei-owusu-ansah/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cloudike&show_icons=true&locale=en&layout=compact" alt="cloudike" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudike&" alt="cloudike" /></p>
+## About
+
+DevOps Engineer building production-grade infrastructure on AWS and Azure.
+I design, automate, and ship cloud systems — documenting every decision
+so the work speaks for itself.
+
+Currently working through a structured DevOps engineering curriculum
+focused on real-world implementations over theory.
+
+---
+
+## Portfolio Projects
+
+| # | Project | Stack | What It Demonstrates |
+|---|---------|-------|----------------------|
+| 01 | [Modern Cloud Architecture](https://github.com/CloudIke/Modern-Cloud-Architecture) | AWS · VPC · EC2 · IAM | Designing secure 3-tier cloud networks from scratch |
+| 02 | [Infra As Code Library](https://github.com/CloudIke/Infra-As-Code-Library) | Terraform · AWS | Turning cloud architecture into repeatable infrastructure code |
+| 03 | [Configuration Automation](https://github.com/CloudIke/Configuration-Automation) | Ansible · Linux | Managing server configuration across environments at scale |
+| 04 | [Enterprise CI/CD Pipelines](https://github.com/CloudIke/Enterprise-CI-CD-Pipelines) | Azure DevOps · YAML · Git | Automating code delivery from commit to production |
+| 05 | [Cloud Native Shipment](https://github.com/CloudIke/Cloud-Native-Shipment) | Docker · Linux | Containerising and shipping applications to any environment |
+| 06 | [Agentic DevOps Framework](https://github.com/CloudIke/Agentic-DevOps-Framework) | Claude Code · AI Agents · AWS | Using AI agents to operate and manage complex infrastructure |
+
+---
+
+## Core Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
+</p>
